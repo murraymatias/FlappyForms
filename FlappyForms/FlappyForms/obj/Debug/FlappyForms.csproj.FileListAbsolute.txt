@@ -7,3 +7,12 @@ C:\Users\matias\source\repos\FlappyForms\FlappyForms\obj\Debug\FlappyForms.Prope
 C:\Users\matias\source\repos\FlappyForms\FlappyForms\obj\Debug\FlappyForms.csproj.GenerateResource.cache
 C:\Users\matias\source\repos\FlappyForms\FlappyForms\obj\Debug\FlappyForms.exe
 C:\Users\matias\source\repos\FlappyForms\FlappyForms\obj\Debug\FlappyForms.pdb
+C:\repos\FlappyForms\FlappyForms\FlappyForms\bin\Debug\FlappyForms.exe.config
+C:\repos\FlappyForms\FlappyForms\FlappyForms\bin\Debug\FlappyForms.exe
+C:\repos\FlappyForms\FlappyForms\FlappyForms\bin\Debug\FlappyForms.pdb
+C:\repos\FlappyForms\FlappyForms\FlappyForms\obj\Debug\FlappyForms.MainForm.resources
+C:\repos\FlappyForms\FlappyForms\FlappyForms\obj\Debug\FlappyForms.Properties.Resources.resources
+C:\repos\FlappyForms\FlappyForms\FlappyForms\obj\Debug\FlappyForms.csproj.GenerateResource.cache
+C:\repos\FlappyForms\FlappyForms\FlappyForms\obj\Debug\FlappyForms.exe
+C:\repos\FlappyForms\FlappyForms\FlappyForms\obj\Debug\FlappyForms.pdb
+C:\repos\FlappyForms\FlappyForms\FlappyForms\obj\Debug\FlappyForms.csprojAssemblyReference.cache
